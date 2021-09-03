@@ -5,46 +5,14 @@ Please send comments or maintenance requests on
 this webpage to  ProfessorChun@aol.com . 
  San Jose State University , One Washington Square, San Jose, CA 95192
  Assistant Professor, Computer Science philip.heller@sjsu.edu Education Doctor of Philosophy, Bioinformatics, University of California, Santa Cruz, 2014 Master of Science, Computer Science, San Jose State University, 2008 Bachelor of Science, Electrical Engineering / Computer Science,University of California, Berkeley, 1977 
-   Dr. Suneuy Kim   Associate Professor  Dept. of  Computer Science  San Jose State University San Jose, CA 95192-0249 
-E-mail: firstname.lastname at sjsu dot edu  Office: MacQuarrie Hall 217 Tel: (408) 924 - 5122   Fall 2021  CS151: Object-Oriented Design  CS157A: Introduction to Database Management Systems   Office Hours: MTWR 12:00 pm - 12:30 pm. Please contact the CS department for the Zoom link.  Teaching  Databases  CS157A: Introduction to Database Management Systems CS157B: Database Management Systems II CS157C: NoSQL Database Systems  Object-Oriented Programming  CS151: Object-Oriented Design CS46B: Introduction to Data Structures CS46A: Introduction to Programming  Performance Evaluation  CS286 Performance Evaluation of Computer Systems   Research  Research Areas: NoSQL Databases, Geospatial Databases, Benchmarking, Performance Evaluaton, Computer Science Education, Object-Oriented Programming Publications   Students     
  Assistant Professor, Computer Science / Bioinformatics College of Science Schedule Appointment Email Preferred: wendy.lee@sjsu.edu Telephone Preferred: 408-924-5161 Office Hours Use the button above to schedule an appointment The LeeResearch Lab Fall 2021 Courses CS 122 - Advanced Programming with Python BIOL/CS 123B - Bioinformatics II CS 297 - Preparation for Thesis CS 298 - Master's Thesis Project Education Ph.D. Bioinformatics, University of California Santa Cruz, CA M.S. Bioinformatics, University of California Santa Cruz, CA M.S. Molecular Biology and Microbiology, San Jose State University, CA B. Math Computer Science (Co-op), University of Waterloo, ON, Canada Bio Dr. Wendy Lee has over a decade of industry experience in software development, biotech R&D and bioinformatics positions, where she developed analytical pipelines for large-scale genomic data and built enterprise software for various industries. Her research interests include developingmachine-learning-based models to improve the accuracy of variant calls usingnext-generation sequencing data and developing new methods for analyzing genomic, transcriptomic and metagenomic data.She also has a passion for fostering the success of women and girls in the STEM fields through training, networking and mentorship. Links Linkedin Google Scholar 
-     Dr. Teng Moh's Home Page    Teng Moh, Ph.D.  Computer Science   San Jose State University San Jose, CA 95192-0249   Tel.: 408-924-5147 Fax: 408-924-5062  E-mail: MyFirstName  <dot> MyLastName <at> SJSU <dot> EDU   Office Hours : TBA  Office: Zoom      Fall 2020 Courses   CS297/298 Preparation
-for Writing Project/Master's Writing Project          
-
- 
-[ Pictures ]    
- 
-[ Pollett Surname ]    
- 
-[ Open Source Search Engine ]  
- 
- 
-[ ECCC ]  
- 
- 
-[ arXiv ]  
- 
- 
-[ Citeseer ]  
- 
- 
-[ Help
-Desk ]  
- 
-
-
+ Chris Pollett Professor, 214 MacQuarrie Hall, Dept. of Computer Science , SJSU , One Washington Sq., San Jose, CA 95192-0249. Phone: (408) 924-5145.Fax: (408) 924-5062. Office Hours: MW 2:45pm - 3:35pm in MH214. Email: chris@pollett.org 
 page under construction
-
-
-
  Prof Dude in Computer Science Department i work in distributed systems, cloud, big data, networking, storage, and operating systems. i often get asked about reading lists and blogs, so i started collecting some . i love working with grads/undergrads on projects in the area of operating systems and distributed systems. if you want to work with me, please watch https://www.usenix.org/conference/atc19/presentation/keynote a great talk by remzi arpaci-dusseau. it has great advice for doing research. you can find out more information about projects that we are working on at http://www.sjsu.edu/people/ben.reed/systems-group/ (i do not work with students during the summer. internships are too important. if you can't get an internship, try engaging with an open source project. both are more valuable to you than working with a professor during the summer.) i'm also looking for good undergraduate programmers to participate in our programming team ! i'll also be running a hands-on storage class this fall run as a CS 180H or CS 280. no exams, just code and doc. contact me if you are interested in taking it. Email Preferred: ben.reed@sjsu.edu Telephone Preferred: 408 924-5174 Office Hours MH 213 Fall 2021 office hours start 8/18/2021 Monday: 3:30-5:30 in office Tuesday: 10:00-11:00 in office Wednesday: 3:30-5:30 in office Thursday: 10:00-12:00 via zoom https://sjsu.zoom.us/j/4077267356 * NOTE: office hours may end up to 30 minutes early if no one is waiting. (don't show up 5 minutes before the end of office hours and expect to get advising :) it may work, but no guarantees.) Class Times Monday & Wednesday 2:15-3:30 CS Talks 1:30-2:30 Tuesdays MH 225 Twitter you can follow me on twitter at @benTheSpartan to be alerted about announcements, changes to office hours, any other exceptional events related to SJSU. the twitter feed will be pretty boring. Education Ph.D. 2000 University of California Santa Cruz, Computer Science. M.S. 1993 DePaul University, Chicago, IL, Computer Science. B.A. 1987 Miami University, Oxford, OH, Mathematics; Computer Systems minor. Licenses and Certificates car and motorcycle license from california Bio once upon a time a little boy who was born in arizona moved with his family to ohio. he was excited to see snow. after a couple of days waiting for the bus in the snow, his excitement turned to misery. to this day he doesn't like snow. while not suffering in the snow he dreamed of living in "silicon valley" and becoming a professor. he went to miami university in ohio, spent a brief 2 years in spain, and got his masters at depaul in chicago. fortunately, tuition reimbursement while working in IT at sears and motorola paid for his education at depaul. he loved the midwest and considered himself to be a midwesterner. he was accepted to UCSC to work on his PhD. he was excited to see the ocean and go to the beach. after arriving in santa cruz, his excitement turned to disappointment when his first trip to the beach consisted of freezing cold water, stinky seaweed, and a naked guy running around. he loved the program at UCSC and ended up getting a position at IBM almaden research center, after an awesome internship there, while he was still finishing up his PhD. after many years at IBM, he left for yahoo research. it was hard to leave yahoo until they shut down the research division, so it was time for the boy to move on. he saw the things facebook was doing to connect the world, and he wanted to be part of that mission, but ended up going to osmeta, a little startup with some really cool tech and people. as chance would have it, facebook acquired osmeta, and the boy was able to work on really cool stuff at a really cool company that he felt was making the world a better place. by now the boy had been in california so long and felt so at home here that he considered himself to be a californian. in 2018, the boy found out that SJSU had an opening in the CS department. he applied and is now part of the CS faculty, and all of his dreams have come true: a faculty position in silicon valley. the end if you want the more official/boring version, here is my CV . if you want the sales pitch, here is my research statement . 
 Fall 2021
 
 
  office hours:
-
  Professor, Computer Science Dept. Email Preferred: chris.tseng@sjsu.edu Education PhD, Electrical and Computer Engineering,University of Illinois at Urbana-Champaign, 1988 MS, Mathematics,University of Illinois at Urbana-Champaign, 1985 BS, Electrical Engineering, National Taiwan University, 1982 Links http://www.sjsu.edu/people/chris.tseng/assessment/ 
-
-			Ohhh ... if I had only known then as much as I have forgotten by now ...
-			
+Ohhh ... if I had only known then as much as I have forgotten by now ...
  Email Preferred: ching-seh.wu@sjsu.edu Google Faculty in Residence Education Ph.D. in Computer Science, Texas A&M University, College Station, Texas. M.S. in Computer Science & Engineering, Air Force Institute of Technology (AFIT), Wright Patterson Air Force Base, Dayton, Ohio. 
